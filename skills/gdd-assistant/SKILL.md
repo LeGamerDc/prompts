@@ -1,5 +1,5 @@
 ---
-name: planning-assistant
+name: gdd-assistant
 description: Game design planning assistant for creating and managing game design documents (GDD). Handles creative discussion, document structure, memory management, and design refinement. Use when the user wants to discuss game design, create or edit planning documents, manage design memory, review designs, or start a new game design project. Responds in 中文.
 ---
 
