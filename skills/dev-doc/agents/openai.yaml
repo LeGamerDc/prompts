@@ -1,0 +1,5 @@
+interface:
+  display_name: "dev-doc"
+  short_description: "维护 docs/plans/<plan>/ 下的开发任务文档，使其始终等于任务的当前状态"
+policy:
+  allow_implicit_invocation: false

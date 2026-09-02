@@ -1,0 +1,5 @@
+interface:
+  display_name: "dev-retro"
+  short_description: "从本次 session 轨迹里筛出被纠正的错误和长链短知识，找出原因并提议 repo 改动"
+policy:
+  allow_implicit_invocation: false
